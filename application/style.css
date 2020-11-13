@@ -1,0 +1,115 @@
+body {
+    height: 100%;
+  }
+  .first{
+    background-color: #c3c5c7;
+    padding-top: 5%;
+  }
+ .rounded {
+   color: #c3c5a0;
+   width: 100%;
+   padding-bottom: 1rem;
+
+ }
+ .apple{
+  text-align: center;
+  padding: 2%;
+  font-size: 30px;
+  font-family: Bold;
+ }
+ .textPrag{
+   font-size: x-large;
+ }
+ .btn {
+  border-radius: 20px!important;
+ }
+ .two{
+   padding-top: 5%;
+ }
+ h3{
+   font-size: 20px!important;
+   color: #c3c5c7!important ;
+ }
+ 
+
+
+
+.texts{
+  text-align: center;
+  border-width: 10px!important;
+  font-size: 20px!important;
+}
+table, td {
+  border: 5px solid white;
+}
+.small{
+ margin: 0;
+}
+.meduim{
+  padding-top: 25%;
+  font-size: x-large ;
+}
+.h-text{
+  text-align: center;
+}
+.rainbow-text {
+  background-image: linear-gradient(to left, #405DE6, #5851DB, #833AB4, #C13584, #E1306C,#FD1D1D,  #F56040, #F77737, #FCAF45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.table1{
+  width: 300px !important;
+  height: 10px !important;
+  
+}
+.table2{
+  height: 547px !important;
+  
+}
+
+.night{
+  color: gray !important;
+}
+.title{
+  text-align: center;
+  font-size: 24px;
+}
+.center{
+  text-align: center;
+  align-items: center;
+}
+.colors {
+  display: flex;
+  position: absolute;
+  
+ 
+}
+
+.color {
+  height: 30px;
+  width: 100px;
+  margin-left: 0.5em;
+  border-radius: 1000px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
+  border: 2px solid #aaa;
+  cursor: pointer;
+}
+.picker{
+  height: 80px !important;
+ 
+  
+}
+.picker2{
+  height: 80px !important;
+}
+.decor{
+  text-decoration: underline wavy gray;
+}
+.icon{
+  font-size: 30px;
+}
+footer{
+  background-color:#c3c5c7 ;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
